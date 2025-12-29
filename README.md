@@ -1,7 +1,7 @@
 ## Welcome!
 
 - 👔 Working as a DevOps.
-- 👨‍💻 Recent i'm working at bondy.
+- 👨‍💻 Recent i'm working at vitat.
 - 🧑🏻‍🎓 Graduated in computer science.
 - ✉️ How to reach me: vinicius.bagodi@gmail.com.
 <div align="center">
